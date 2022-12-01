@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randy-tarasevich
-- 👀 I’m interested in creating value for businesses by developing reliable, performance-efficient, secure, & cost-effective cloud computing networks 
-- 🌱 I’m currently learning how to leverage AWS services to architect solutions in the cloud.
+- 👀 I’m interested in developing full-stack web applications that are scalable, reliable, performance-efficient, secure, & cost-effective using AWS services and resources.
+- 🌱 I’m currently learning how to leverage AWS services to architect full-stack web applications in the cloud.
 - 📫 How to reach me: randy.tarasevich@gmail.com
 <!---
 randy-tarasevich/randy-tarasevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

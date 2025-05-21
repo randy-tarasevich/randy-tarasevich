@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @randy-tarasevich
-- 👀 I develop visually appealling full-stack web applications that are scalable, reliable, performant, secure, & cost-effective.
+- 👀 I develop visually appealling websites and full-stack web applications that are scalable, reliable, performant, secure, & cost-effective.
 - 🌱 I’m currently enrolled in a Computer Science degree program with a focus on software engineering. 
 - 📫 How to reach me: randy.tarasevich@ctstate.edu
 <!---
